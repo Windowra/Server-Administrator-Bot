@@ -1,0 +1,30 @@
+{
+  "name": "server-administrator-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Windowra/Server-Administrator-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Windowra/Server-Administrator-Bot/issues"
+  },
+  "homepage": "https://github.com/Windowra/Server-Administrator-Bot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^2.6.2",
+    "discord-api-types": "^0.38.50",
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
